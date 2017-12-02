@@ -1,0 +1,15 @@
+{
+  "name": "wmata_report",
+  "version": "1.0.0",
+  "description": "Ask Alexa questions about the metro.",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tmhammer",
+  "license": "ISC"
+}
